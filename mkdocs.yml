@@ -1,0 +1,59 @@
+site_name: TraceLock Labs
+site_url: https://tracelocklabs.com
+site_description: "Applied research in wireless detection systems, distributed sensing, and SBIR-aligned security technology."
+site_author: TraceLock Labs
+strict: true
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+    - navigation.instant
+    - search.highlight
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - Technology:
+      - Wireless Detection Systems: technology/wireless-detection-systems.md
+      - Distributed Sensor Networks: technology/distributed-sensor-networks.md
+      - RF Situational Awareness: technology/rf-situational-awareness.md
+  - Research:
+      - Wireless Threat Detection: research/wireless-threat-detection.md
+      - Sensor Architectures: research/sensor-architectures.md
+      - AI RF Classification: research/ai-rf-classification.md
+  - Programs:
+      - SBIR / STTR: programs/sbir-sttr.md
+      - Research Partnerships: programs/research-partnerships.md
+  - Patents:
+      - Patent Estate: patents/index.md
+  - Roadmap:
+      - TraceLock Research Roadmap: roadmap/index.md
+  - Lab:
+      - Experiments: lab/experiments.md
+      - Technical Papers: lab/technical-papers.md
+      - Architecture Diagrams: lab/architecture-diagrams.md
+  - Contact: contact.md
