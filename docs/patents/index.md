@@ -1,8 +1,8 @@
 # Patent Estate
 
-`TraceLock™` operates as the physical-layer sensor and detection system within the broader `SDOS` (Security Decision Operating System) governance architecture. Both systems are covered by four U.S. provisional patent applications filed between April and May 2026.
+`TraceLock™` operates as the physical-layer sensor and detection system within the broader `SDOS` (Security Decision Operating System) governance architecture. Both systems are covered by five U.S. provisional patent applications filed between April and May 2026.
 
-This page summarizes patent provenance at a capability level. Implementation detail is held until non-provisional publication. The non-provisional consolidating all four filings is targeted for April 4, 2027 (Prov #1 expiry — strict-conservative posture preserves all four priority dates).
+This page summarizes patent provenance at a capability level. Implementation detail is held until non-provisional publication. The non-provisional consolidating all five filings is targeted for April 4, 2027 (Prov #1 expiry — strict-conservative posture preserves all five priority dates).
 
 ## Filed U.S. Provisional Patent Applications
 
@@ -34,9 +34,9 @@ This page summarizes patent provenance at a capability level. Implementation det
 
 ## Combined Scope
 
-- **Four U.S. provisional patent applications**
+- **Five U.S. provisional patent applications**
 - **45 patent families**
-- **313 total claims** (46 independent + 267 dependent)
+- **334 total claims** (47 independent + 287 dependent)
 - **Non-provisional filing target:** April 4, 2027
 
 ## What This Means for Research Partners

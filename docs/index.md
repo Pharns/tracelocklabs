@@ -20,7 +20,7 @@ TraceLock Labs develops the sensing and signal-generation layer within the broad
 
 ## Patent Status
 
-`TraceLock™` is covered under four U.S. provisional patent applications filed between April and May 2026 — Nos. 64/029,300, 64/049,300, 64/067,427, and 64/069,200 — spanning 45 patent families and 313 total claims. The non-provisional consolidating all four filings is targeted for April 4, 2027.
+`TraceLock™` is covered under five U.S. provisional patent applications filed between April and May 2026 — Nos. 64/029,300, 64/049,300, 64/067,427, 64/069,200, and 64/076,620 — spanning 45 patent families and 334 total claims. The non-provisional consolidating all five filings is targeted for April 4, 2027.
 
 See the [patent estate](patents/index.md) for filing detail and scope summary.
 
