@@ -55,6 +55,7 @@ All four patent application numbers are public records and can be verified via t
 | Provisional 2 | 64/049,300 | 2026-04-25 | 2350 |
 | Provisional 3 | 64/067,427 | 2026-05-16 | 1226 |
 | Provisional 4 | 64/069,200 | 2026-05-19 | 7393 |
+| Provisional 5 | 64/076,620 | 2026-05-28 | 4111 |
 
 ## Disclosure Posture
 
