@@ -6,7 +6,6 @@ strict: true
 theme:
   name: material
   language: en
-  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.top
