@@ -6,31 +6,25 @@ This page summarizes patent provenance at a capability level. Implementation det
 
 ## Filed U.S. Provisional Patent Applications
 
-### Provisional No. 64/029,300
+### Provisional 1 — April 4, 2026
 
-- **Filed:** April 4, 2026
-- **Confirmation No.:** 5548
 - **Scope relevant to `TraceLock™`:** Multi-domain RF sensing as a governance input — radio-frequency situational awareness fused with behavioral and network signals to feed runtime policy decisions. Risk-tiered classification (R1 / R2 / R3) governs how sensor signal evidence is acted upon at dispatch.
 
-### Provisional No. 64/049,300
+### Provisional 2 — April 25, 2026
 
-- **Filed:** April 25, 2026
-- **Confirmation No.:** 2350
 - **Scope relevant to `TraceLock™`:** Sensor-actuated AI dispatch — architecture for routing decisions based on sensor evidence at the moment of action, rather than post-hoc audit. Modular governance architecture supporting hot-swappable detection modules with integrity verification.
 
-### Provisional No. 64/067,427
+### Provisional 3 — May 16, 2026
 
-- **Filed:** May 16, 2026
-- **Confirmation No.:** 1226
-- **Title:** *Governed Autonomous Execution System with Structural Isolation, Formal Enforcement Invariance, Governance Lifecycle Properties, and Demonstrated Resilience.*
 - **Scope relevant to `TraceLock™`:** Structural isolation properties between sensing layer and decision layer — the sensor cannot modify the policy under which its evidence is evaluated. Formal enforcement invariance and adversarial-hardening properties extend to the sensor-evidence pathway.
 
-### Provisional No. 64/069,200
+### Provisional 4 — May 19, 2026
 
-- **Filed:** May 19, 2026
-- **Confirmation No.:** 7393
-- **Title:** *Governed Persistent Orchestration Identity for AI Agent Runtimes Across Sessions and Modalities.*
 - **Scope relevant to `TraceLock™`:** Governance identity continuity that applies to systems integrating sensor evidence into AI agent runtimes — including deployments where `TraceLock™` evidence feeds AI decision pipelines across sessions.
+
+### Provisional 5 — May 28, 2026
+
+- **Scope relevant to `TraceLock™`:** Topology-adaptive governed runtime — enforcement that holds across differing deployment topologies, including edge-deployed sensing where the governance runtime and the sensor share a host. Combined-signal detection and pre-action memory checks extend the sensor-evidence pathway.
 
 ## Combined Scope
 
@@ -47,15 +41,11 @@ For the runtime governance umbrella that consumes `TraceLock™` sensor evidence
 
 ## Verification
 
-All four patent application numbers are public records and can be verified via the USPTO Patent Center.
+Five U.S. provisional applications were filed between April 4 and May 28, 2026, covering 45 patent families and 334 total claims.
 
-| Filing | Application No. | Filed | Confirmation No. |
-|---|---|---|---|
-| Provisional 1 | 64/029,300 | 2026-04-04 | 5548 |
-| Provisional 2 | 64/049,300 | 2026-04-25 | 2350 |
-| Provisional 3 | 64/067,427 | 2026-05-16 | 1226 |
-| Provisional 4 | 64/069,200 | 2026-05-19 | 7393 |
-| Provisional 5 | 64/076,620 | 2026-05-28 | 4111 |
+**U.S. provisional applications are not published by the USPTO.** They remain unpublished until a non-provisional claiming their priority publishes — here, no earlier than 2028. That means application numbers cannot be looked up in a public patent database today, and a search would return nothing. This is how provisional filing works, not a gap in the record.
+
+Filing receipts, application numbers, and confirmation numbers are provided to research partners, prime contractors, and diligence counsel on request, under the NDA framework below.
 
 ## Disclosure Posture
 
@@ -65,5 +55,5 @@ For collaboration discussions that require deeper technical detail, an NDA frame
 
 ---
 
-**Last updated:** 2026-05-20
-**Source of truth:** USPTO Patent Center filing records, AAM Cyber patent docket.
+**Last updated:** 2026-10-05
+**Source of truth:** AAM Cyber patent docket; USPTO filing receipts held on file.
